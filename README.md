@@ -24,7 +24,7 @@ You can also add custom game executables through the interface.
 
 ### From Executable
 1. Download the latest release from the [Releases](https://github.com/Apkaless/PriorityMaster/releases/tag/PriorityMaster) page
-2. Run the `GamePriorityManager.exe` file
+2. Run the `PriorityMaster.exe` file
 3. The application will request administrator privileges (required for process priority management)
 
 
