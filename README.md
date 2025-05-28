@@ -2,18 +2,13 @@
 
 A modern, user-friendly application that automatically manages process priorities for your games, helping to optimize performance and reduce stuttering.
 
-![Game Priority Manager](app_icon.png)
-
 ## Features
 
 - 🎮 Automatic process priority management for popular games
 - ⚡ Real-time process monitoring
-- 🎯 Customizable priority settings
 - 🕒 Configurable wait time for game detection
-- 🎨 Modern, dark-themed user interface
 - 🔄 Live process list with priority filtering
 - 📝 Custom game process support
-- 💾 Persistent settings storage
 
 ## Supported Games
 
