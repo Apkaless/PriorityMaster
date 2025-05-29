@@ -51,6 +51,7 @@ You can also add custom game executables through the interface.
 - **Below Normal**: Reduced priority
 - **Idle**: Lowest priority
 
+[PREVIE](https://github.com/Apkaless/PriorityMaster/blob/main/Image/PM.png)
 ## Requirements
 
 - Windows 10 or later
